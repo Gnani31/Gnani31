@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gnani31
 - 👀 I’m interested in coding, web developement, and generative AI.
 - 🌱 I’m currently learning Full stack development.
-- 💞️ I’m looking to collaborate on buliding projects on HTML,CSS,JAVASCRIPT ans BLOCKCHAIN.
-- 📫 How to reach me gnani4d@gmail.com , linkedin.com/in/gnani-ch
+- 💞️ I’m looking to collaborate on buliding projects on HTML,CSS,JAVASCRIPT and BLOCKCHAIN.
+- 📫 How to reach me gnani4d@gmail.com , https://www.linkedin.com/in/gnani-ch/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play chess and solve puzzles.
 
